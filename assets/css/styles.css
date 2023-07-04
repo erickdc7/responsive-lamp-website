@@ -164,6 +164,13 @@ img {
   transition: background 0.4s;
 }
 
+.nav {
+  height: var(--header-height);
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
 /* Navigation for mobile devices */
 
 /* Show menu */
