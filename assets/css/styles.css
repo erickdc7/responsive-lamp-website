@@ -178,6 +178,13 @@ img {
   transition: color 0.4s;
 }
 
+.nav__logo span {
+  background: var(--third-gradient);
+  background-clip: text;
+  -webkit-background-clip: text;
+  color: transparent;
+}
+
 /* Navigation for mobile devices */
 
 /* Show menu */
