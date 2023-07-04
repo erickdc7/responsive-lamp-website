@@ -171,6 +171,13 @@ img {
   align-items: center;
 }
 
+.nav__logo {
+  color: var(--white-color);
+  font-family: var(--second-font);
+  font-weight: var(--font-medium);
+  transition: color 0.4s;
+}
+
 /* Navigation for mobile devices */
 
 /* Show menu */
