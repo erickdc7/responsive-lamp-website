@@ -228,6 +228,14 @@ img {
   color: transparent;
 }
 
+.nav__close {
+  position: absolute;
+  top: 1rem;
+  right: 1.5rem;
+  font-size: 1.5rem;
+  color: var(--title-color);
+}
+
 /* Show menu */
 
 /* Change background header */
