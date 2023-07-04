@@ -185,6 +185,12 @@ img {
   color: transparent;
 }
 
+.nav__toggle,
+.nav__close {
+  display: flex;
+  cursor: pointer;
+}
+
 /* Navigation for mobile devices */
 
 /* Show menu */
