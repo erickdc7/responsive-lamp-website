@@ -191,6 +191,12 @@ img {
   cursor: pointer;
 }
 
+.nav__toggle {
+  font-size: 1.25rem;
+  color: var(--white-color);
+  transition: color 0.4s;
+}
+
 /* Navigation for mobile devices */
 
 /* Show menu */
