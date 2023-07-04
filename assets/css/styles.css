@@ -217,6 +217,10 @@ img {
   row-gap: 2rem;
 }
 
+.nav__link {
+  color: var(--text-color);
+}
+
 /* Show menu */
 
 /* Change background header */
