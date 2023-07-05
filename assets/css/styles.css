@@ -265,7 +265,11 @@ img {
   position: relative;
   padding-top: 2.5rem;
   row-gap: 3.5rem;
-} 
+}
+
+.home__content {
+  row-gap: 3rem;
+}
 
 /*=============== BUTTON ===============*/
 
