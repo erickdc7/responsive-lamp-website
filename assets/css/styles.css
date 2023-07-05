@@ -261,6 +261,12 @@ img {
   clip-path: polygon(0 0, 100% 0, 100% 100%, 0 88%);
 }
 
+.home__container {
+  position: relative;
+  padding-top: 2.5rem;
+  row-gap: 3.5rem;
+}
+
 /*=============== BUTTON ===============*/
 
 /*=============== POPULAR ===============*/
