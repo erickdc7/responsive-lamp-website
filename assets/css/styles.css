@@ -271,6 +271,15 @@ img {
   row-gap: 3rem;
 }
 
+.home__subtitle {
+  background: var(--third-gradient);
+  -webkit-background-clip: text;
+  background-clip: text;
+  color: transparent;
+  font-size: var(--normal-font-size);
+  margin-bottom: 0.5rem;
+}
+
 /*=============== BUTTON ===============*/
 
 /*=============== POPULAR ===============*/
