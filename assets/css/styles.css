@@ -354,6 +354,14 @@ img {
   transform: translateY(-6px);
 }
 
+.home__blob-title {
+  text-align: center;
+  font-size: 3.5rem;
+  letter-spacing: 2px;
+  color: hsla(0, 0%, 100%, 0.3);
+  font-weight: var(--font-medium);
+}
+
 /*=============== BUTTON ===============*/
 
 /*=============== POPULAR ===============*/
