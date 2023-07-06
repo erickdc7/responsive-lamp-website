@@ -376,6 +376,12 @@ img {
   font-weight: var(--font-medium);
 }
 
+.button__link {
+  display: flex;
+  align-items: center;
+  column-gap: 0.25rem;
+}
+
 /*=============== POPULAR ===============*/
 
 /* Swiper class */
