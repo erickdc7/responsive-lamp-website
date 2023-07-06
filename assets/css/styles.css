@@ -280,6 +280,13 @@ img {
   margin-bottom: 0.5rem;
 }
 
+.home__title {
+  color: var(--white-color);
+  font-size: var(--bigger-font-size);
+  font-weight: var(--font-medium);
+  margin-bottom: 1.5rem;
+}
+
 /*=============== BUTTON ===============*/
 
 /*=============== POPULAR ===============*/
