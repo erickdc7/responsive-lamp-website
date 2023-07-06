@@ -347,6 +347,13 @@ img {
   z-index: -1;
 }
 
+.home__img {
+  display: block;
+  width: 220px;
+  margin: 0 auto;
+  transform: translateY(-6px);
+}
+
 /*=============== BUTTON ===============*/
 
 /*=============== POPULAR ===============*/
