@@ -304,6 +304,13 @@ img {
   text-align: center;
 }
 
+.home__info-title {
+  color: var(--white-color);
+  font-size: var(--h1-font-size);
+  font-weight: var(--font-medium);
+  margin-bottom: 0.5rem;
+}
+
 /*=============== BUTTON ===============*/
 
 /*=============== POPULAR ===============*/
