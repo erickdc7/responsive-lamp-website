@@ -305,6 +305,10 @@ img {
   color: var(--text-color);
 }
 
+.home__buttons .button__link i {
+  font-size: 2rem;
+}
+
 .home__info {
   display: flex;
   justify-content: center;
