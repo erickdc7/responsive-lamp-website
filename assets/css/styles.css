@@ -311,6 +311,10 @@ img {
   margin-bottom: 0.5rem;
 }
 
+.home__info-title span {
+  color: var(--first-color);
+}
+
 /*=============== BUTTON ===============*/
 
 /*=============== POPULAR ===============*/
