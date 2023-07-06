@@ -301,6 +301,10 @@ img {
   box-shadow: 0 4px 12px hsla(0, 0%, 0%, 0.8);
 }
 
+.home__buttons .button__link {
+  color: var(--text-color);
+}
+
 .home__info {
   display: flex;
   justify-content: center;
