@@ -334,6 +334,19 @@ img {
   justify-self: center;
 }
 
+.home__shadow {
+  position: absolute;
+  width: 200px;
+  height: 30px;
+  background: hsla(15, 68%, 52%, 0.6);
+  bottom: -0.75rem;
+  left: 0;
+  right: 0;
+  margin: 0 auto;
+  filter: blur(12px);
+  z-index: -1;
+}
+
 /*=============== BUTTON ===============*/
 
 /*=============== POPULAR ===============*/
