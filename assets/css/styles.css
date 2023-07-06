@@ -329,6 +329,11 @@ img {
   border-radius: 20rem 20rem 0 0;
 }
 
+.home__image {
+  position: relative;
+  justify-self: center;
+}
+
 /*=============== BUTTON ===============*/
 
 /*=============== POPULAR ===============*/
