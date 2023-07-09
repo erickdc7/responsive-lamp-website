@@ -422,6 +422,10 @@ img {
   transition: box-shadow 0.4s;
 }
 
+.popular__card:hover {
+  box-shadow: 0 12px 16px hsla(0, 0%, 0%, 0.1);
+}
+
 /* Swiper class */
 
 /*=============== CHOOSE ===============*/
