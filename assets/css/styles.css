@@ -444,6 +444,14 @@ img {
   margin-bottom: 0.25rem;
 }
 
+.popular__subtitle {
+  display: block;
+  font-size: var(--smaller-font-size);
+  font-family: var(--second-font);
+  font-weight: var(--font-medium);
+  margin-bottom: 1rem;
+}
+
 /* Swiper class */
 
 /*=============== CHOOSE ===============*/
