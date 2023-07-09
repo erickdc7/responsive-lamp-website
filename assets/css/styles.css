@@ -439,6 +439,11 @@ img {
   margin: 0 auto;
 }
 
+.popular__name {
+  font-size: var(--normal-font-size);
+  margin-bottom: 0.25rem;
+}
+
 /* Swiper class */
 
 /*=============== CHOOSE ===============*/
