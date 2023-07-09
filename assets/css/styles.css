@@ -456,6 +456,10 @@ img {
   font-size: var(--h1-font-size);
 }
 
+.popular__price span {
+  color: var(--first-color-alt);
+}
+
 /* Swiper class */
 
 /*=============== CHOOSE ===============*/
