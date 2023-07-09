@@ -433,6 +433,12 @@ img {
   margin-bottom: 0.75rem;
 }
 
+.popular__img {
+  display: block;
+  width: 120px;
+  margin: 0 auto;
+}
+
 /* Swiper class */
 
 /*=============== CHOOSE ===============*/
