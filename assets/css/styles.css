@@ -426,6 +426,13 @@ img {
   box-shadow: 0 12px 16px hsla(0, 0%, 0%, 0.1);
 }
 
+.popular__blob {
+  background-color: var(--body-color);
+  height: 200px;
+  border-radius: 8rem 8rem 0 0;
+  margin-bottom: 0.75rem;
+}
+
 /* Swiper class */
 
 /*=============== CHOOSE ===============*/
