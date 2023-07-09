@@ -460,6 +460,20 @@ img {
   color: var(--first-color-alt);
 }
 
+.popular__button {
+  display: inline-flex;
+  padding: 0.25rem;
+  background: var(--third-gradient);
+  border-radius: 0.5rem;
+  font-size: 1.25rem;
+  color: var(--white-color);
+  box-shadow: 0 2px 8px hsla(15, 68%, 32%, 0.4);
+  position: absolute;
+  right: 0.75rem;
+  bottom: 1rem;
+  cursor: pointer;
+}
+
 /* Swiper class */
 
 /*=============== CHOOSE ===============*/
