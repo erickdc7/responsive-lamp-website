@@ -494,6 +494,10 @@ img {
   box-shadow: 0 2px 8px hsla(0, 0%, 0%, 0.1);
 }
 
+.swiper-button-prev {
+  left: calc(50% - 3rem);
+}
+
 /*=============== CHOOSE ===============*/
 
 /* Rotate icon */
