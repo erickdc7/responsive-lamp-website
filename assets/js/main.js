@@ -51,6 +51,11 @@ const popularSwiper = new Swiper('.popular__content', {
         nextEl: '.swiper-button-next',
         prevEl: '.swiper-button-prev',
     },
+    breakpoints: {
+        768: {
+            centeredSlides: false,
+        }
+    }
 });
 
 /*=============== CHOOSE FAQ ===============*/
