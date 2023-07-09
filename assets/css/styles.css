@@ -411,6 +411,17 @@ img {
   padding-block: 2.5rem 5rem;
 }
 
+.popular__card {
+  position: relative;
+  width: 200px;
+  height: 322px;
+  background-color: var(--container-color);
+  border-radius: 9rem 9rem 0 0;
+  padding: 0.75rem 0.75rem 1rem;
+  margin-inline: 1rem;
+  transition: box-shadow 0.4s;
+}
+
 /* Swiper class */
 
 /*=============== CHOOSE ===============*/
