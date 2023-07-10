@@ -535,6 +535,15 @@ img {
   z-index: -1;
 }
 
+.choose__img {
+  position: relative;
+  display: block;
+  width: 160px;
+  margin: 0 auto;
+  transform: translateY(-6px);
+  z-index: 2;
+}
+
 /* Rotate icon */
 
 /* Change color icon */
