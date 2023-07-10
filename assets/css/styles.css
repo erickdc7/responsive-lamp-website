@@ -560,6 +560,12 @@ img {
   text-align: center;
 }
 
+.choose__content,
+.choose__faq {
+  display: grid;
+  row-gap: 2rem;
+}
+
 /* Rotate icon */
 
 /* Change color icon */
