@@ -588,6 +588,10 @@ img {
   transition: box-shadow 0.4s;
 }
 
+.choose__faq-icon i {
+  transition: transform 0.3s;
+}
+
 /* Rotate icon */
 
 /* Change color icon */
