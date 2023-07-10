@@ -566,6 +566,13 @@ img {
   row-gap: 2rem;
 }
 
+.choose__faq-header {
+  display: flex;
+  align-items: center;
+  column-gap: 0.75rem;
+  cursor: pointer;
+}
+
 /* Rotate icon */
 
 /* Change color icon */
