@@ -517,6 +517,11 @@ img {
   border-radius: 20rem 20rem 0 0;
 }
 
+.choose__image {
+  position: relative;
+  justify-self: center;
+}
+
 /* Rotate icon */
 
 /* Change color icon */
