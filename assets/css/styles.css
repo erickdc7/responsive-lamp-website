@@ -592,6 +592,10 @@ img {
   transition: transform 0.3s;
 }
 
+.choose__faq-description {
+  padding: 0.5rem 1rem 0 2.5rem;
+}
+
 /* Rotate icon */
 
 /* Change color icon */
