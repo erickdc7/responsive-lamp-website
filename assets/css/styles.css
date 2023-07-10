@@ -503,6 +503,9 @@ img {
 }
 
 /*=============== CHOOSE ===============*/
+.choose__container {
+  row-gap: 3rem;
+}
 
 /* Rotate icon */
 
