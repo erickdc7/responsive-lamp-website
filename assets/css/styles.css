@@ -522,6 +522,13 @@ img {
   justify-self: center;
 }
 
+.choose__shadow {
+  position: absolute;
+  width: 170px;
+  height: 30px;
+  background: hsla(15, 60%, 52%, 0.6);
+}
+
 /* Rotate icon */
 
 /* Change color icon */
