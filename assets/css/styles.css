@@ -573,6 +573,10 @@ img {
   cursor: pointer;
 }
 
+.choose__faq-title {
+  font-size: var(--normal-font-size);
+}
+
 /* Rotate icon */
 
 /* Change color icon */
