@@ -556,6 +556,10 @@ img {
   transform: rotate(180deg);
 }
 
+.choose__data {
+  text-align: center;
+}
+
 /* Rotate icon */
 
 /* Change color icon */
