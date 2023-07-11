@@ -615,6 +615,12 @@ img {
 }
 
 /* Title color change */
+.faq-open .choose__faq-title {
+  background: var(--third-gradient);
+  -webkit-background-clip: text;
+  background-clip: text;
+  color: transparent;
+}
 
 /*=============== FEATURES ===============*/
 
