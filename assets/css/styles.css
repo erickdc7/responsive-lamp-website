@@ -596,6 +596,12 @@ img {
   padding: 0.5rem 1rem 0 2.5rem;
 }
 
+.choose__faq-content {
+  overflow: hidden;
+  height: 0;
+  transition: height 0.3s ease;
+}
+
 /* Rotate icon */
 
 /* Change color icon */
