@@ -608,6 +608,11 @@ img {
 }
 
 /* Change color icon */
+.faq-open .choose__faq-icon {
+  background: var(--white-color);
+  color: var(--first-color-alt);
+  box-shadow: none;
+}
 
 /* Title color change */
 
