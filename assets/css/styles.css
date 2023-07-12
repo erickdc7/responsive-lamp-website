@@ -623,6 +623,9 @@ img {
 }
 
 /*=============== FEATURES ===============*/
+.features__container {
+  row-gap: 3rem;
+}
 
 /*=============== PRODUCTS ===============*/
 
