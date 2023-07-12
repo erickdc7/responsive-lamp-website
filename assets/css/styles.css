@@ -713,6 +713,13 @@ img {
   box-shadow: 0 12px 16px hsla(0, 0%, 0%, 0.1);
 }
 
+.features__info-card:hover .features__info-title {
+  background: var(--third-gradient);
+  -webkit-background-clip: text;
+  background-clip: text;
+  color: transparent;
+}
+
 /*=============== PRODUCTS ===============*/
 
 /*=============== JOIN ===============*/
