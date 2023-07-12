@@ -704,6 +704,11 @@ img {
   transition: box-shadow 0.4s;
 }
 
+.features__info-title {
+  font-size: var(--h3-font-size);
+  font-weight: var(--font-medium);
+}
+
 /*=============== PRODUCTS ===============*/
 
 /*=============== JOIN ===============*/
