@@ -693,6 +693,17 @@ img {
   gap: 1.5rem;
 }
 
+.features__info-card {
+  background: linear-gradient(
+    180deg,
+    hsla(0, 0%, 86%, 0),
+    hsla(0, 0%, 100%, 1)
+  );
+  padding: 2rem 1.5rem;
+  text-align: center;
+  transition: box-shadow 0.4s;
+}
+
 /*=============== PRODUCTS ===============*/
 
 /*=============== JOIN ===============*/
