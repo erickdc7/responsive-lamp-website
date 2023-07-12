@@ -679,6 +679,11 @@ img {
   text-align: center;
 }
 
+.features__content,
+.features__info {
+  display: grid;
+}
+
 /*=============== PRODUCTS ===============*/
 
 /*=============== JOIN ===============*/
