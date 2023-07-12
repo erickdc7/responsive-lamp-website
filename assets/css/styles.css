@@ -655,6 +655,15 @@ img {
   z-index: -1;
 }
 
+.features__img {
+  position: relative;
+  display: block;
+  width: 190px;
+  margin: 0 auto;
+  transform: translateY(-6px);
+  z-index: 2;
+}
+
 /*=============== PRODUCTS ===============*/
 
 /*=============== JOIN ===============*/
