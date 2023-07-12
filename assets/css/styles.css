@@ -675,6 +675,10 @@ img {
   writing-mode: vertical-lr;
 }
 
+.features__data {
+  text-align: center;
+}
+
 /*=============== PRODUCTS ===============*/
 
 /*=============== JOIN ===============*/
