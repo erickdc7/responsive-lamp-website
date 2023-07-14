@@ -734,6 +734,69 @@ img {
   justify-content: center;
 }
 
+.products__card {
+  position: relative;
+  width: 200px;
+  height: 322px;
+  background-color: var(--container-color);
+  border-radius: 9rem 9rem 0 0;
+  padding: 0.75rem 0.75rem 1rem;
+  margin-inline: 1rem;
+  transition: box-shadow 0.4s;
+}
+
+.products__card:hover {
+  box-shadow: 0 12px 16px hsla(0, 0%, 0%, 0.1);
+}
+
+.products__blob {
+  background-color: var(--body-color);
+  height: 200px;
+  border-radius: 8rem 8rem 0 0;
+  margin-bottom: 0.75rem;
+}
+
+.products__img {
+  display: block;
+  width: 120px;
+  margin: 0 auto;
+}
+
+.products__name {
+  font-size: var(--normal-font-size);
+  margin-bottom: 0.25rem;
+}
+
+.products__subtitle {
+  display: block;
+  font-size: var(--smaller-font-size);
+  font-family: var(--second-font);
+  font-weight: var(--font-medium);
+  margin-bottom: 1rem;
+}
+
+.products__price {
+  font-size: var(--h1-font-size);
+}
+
+.products__price span {
+  color: var(--first-color-alt);
+}
+
+.products__button {
+  display: inline-flex;
+  padding: 0.25rem;
+  background: var(--third-gradient);
+  border-radius: 0.5rem;
+  font-size: 1.25rem;
+  color: var(--white-color);
+  box-shadow: 0 2px 8px hsla(15, 68%, 32%, 0.4);
+  position: absolute;
+  right: 0.75rem;
+  bottom: 1rem;
+  cursor: pointer;
+}
+
 /*=============== JOIN ===============*/
 
 /*=============== FOOTER ===============*/
