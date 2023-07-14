@@ -729,6 +729,11 @@ img {
   text-align: center;
 }
 
+.products__content {
+  gap: 2rem;
+  justify-content: center;
+}
+
 /*=============== JOIN ===============*/
 
 /*=============== FOOTER ===============*/
