@@ -839,6 +839,13 @@ img {
   z-index: -1;
 }
 
+.join__img {
+  display: block;
+  width: 190px;
+  margin: 0 auto;
+  transform: translateY(-6px);
+}
+
 /*=============== FOOTER ===============*/
 
 /*=============== SCROLL BAR ===============*/
