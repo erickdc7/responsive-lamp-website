@@ -879,6 +879,11 @@ img {
   font-family: var(--second-font);
 }
 
+.join__button {
+  padding-block: 1.1rem;
+  cursor: pointer;
+}
+
 /*=============== FOOTER ===============*/
 
 /*=============== SCROLL BAR ===============*/
