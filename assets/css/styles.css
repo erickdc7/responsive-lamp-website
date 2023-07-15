@@ -862,6 +862,11 @@ img {
   text-align: center;
 }
 
+.join__form {
+  display: grid;
+  row-gap: 0.75rem;
+}
+
 /*=============== FOOTER ===============*/
 
 /*=============== SCROLL BAR ===============*/
