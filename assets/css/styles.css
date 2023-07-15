@@ -808,6 +808,18 @@ img {
   padding: 0 1.5rem 3.5rem 1.5rem;
 }
 
+.join__blob {
+  position: relative;
+  width: 220px;
+  height: 320px;
+  border: 6px solid transparent;
+  background: var(--second-gradient) padding-box,
+    linear-gradient(90deg, hsl(20, 72%, 65%) 0%, hsl(20, 78%, 80%) 100%)
+      border-box;
+  border-radius: 20rem 20rem 0 0;
+  z-index: 2;
+}
+
 /*=============== FOOTER ===============*/
 
 /*=============== SCROLL BAR ===============*/
