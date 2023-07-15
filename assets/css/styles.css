@@ -858,6 +858,10 @@ img {
   row-gap: 2rem;
 }
 
+.join__data {
+  text-align: center;
+}
+
 /*=============== FOOTER ===============*/
 
 /*=============== SCROLL BAR ===============*/
