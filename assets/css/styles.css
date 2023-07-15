@@ -875,6 +875,10 @@ img {
   color: var(--text-color);
 }
 
+.join__input::placeholder {
+  font-family: var(--second-font);
+}
+
 /*=============== FOOTER ===============*/
 
 /*=============== SCROLL BAR ===============*/
