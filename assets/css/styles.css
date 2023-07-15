@@ -854,6 +854,10 @@ img {
   font-weight: var(--font-medium);
 }
 
+.join__content {
+  row-gap: 2rem;
+}
+
 /*=============== FOOTER ===============*/
 
 /*=============== SCROLL BAR ===============*/
