@@ -820,6 +820,12 @@ img {
   z-index: 2;
 }
 
+.join__image {
+  position: relative;
+  justify-self: center;
+  transform: translateY(-3.5rem);
+}
+
 /*=============== FOOTER ===============*/
 
 /*=============== SCROLL BAR ===============*/
