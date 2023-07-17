@@ -902,6 +902,13 @@ img {
   margin-bottom: 0.75rem;
 }
 
+.footer__logo span {
+  background: var(--third-gradient);
+  -webkit-background-clip: text;
+  background-clip: text;
+  color: transparent;
+}
+
 /*=============== SCROLL BAR ===============*/
 
 /*=============== SCROLL UP ===============*/
