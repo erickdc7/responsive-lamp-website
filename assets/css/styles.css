@@ -953,6 +953,10 @@ img {
   transition: transform 0.4s;
 }
 
+.footer__social-link:hover {
+  transform: translateY(-0.25rem);
+}
+
 /*=============== SCROLL BAR ===============*/
 
 /*=============== SCROLL UP ===============*/
