@@ -964,6 +964,10 @@ img {
   row-gap: 1rem;
 }
 
+.footer__terms {
+  column-gap: 1.5rem;
+}
+
 /*=============== SCROLL BAR ===============*/
 
 /*=============== SCROLL UP ===============*/
