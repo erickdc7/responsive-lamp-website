@@ -940,6 +940,10 @@ img {
   display: flex;
 }
 
+.footer__social {
+  column-gap: 1.25rem;
+}
+
 /*=============== SCROLL BAR ===============*/
 
 /*=============== SCROLL UP ===============*/
