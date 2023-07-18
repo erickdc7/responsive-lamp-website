@@ -934,6 +934,12 @@ img {
   color: var(--title-color);
 }
 
+.footer__social,
+.footer__group,
+.footer__terms {
+  display: flex;
+}
+
 /*=============== SCROLL BAR ===============*/
 
 /*=============== SCROLL UP ===============*/
