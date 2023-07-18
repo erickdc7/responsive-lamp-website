@@ -909,6 +909,11 @@ img {
   color: transparent;
 }
 
+.footer__data {
+  grid-template-columns: repeat(2, max-content);
+  gap: 2.5rem 4rem;
+}
+
 /*=============== SCROLL BAR ===============*/
 
 /*=============== SCROLL UP ===============*/
