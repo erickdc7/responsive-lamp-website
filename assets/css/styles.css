@@ -944,6 +944,15 @@ img {
   column-gap: 1.25rem;
 }
 
+.footer__social-link {
+  font-size: 1.25rem;
+  background: var(--third-gradient);
+  -webkit-background-clip: text;
+  background-clip: text;
+  color: transparent;
+  transition: transform 0.4s;
+}
+
 /*=============== SCROLL BAR ===============*/
 
 /*=============== SCROLL UP ===============*/
