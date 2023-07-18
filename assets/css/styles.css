@@ -968,6 +968,11 @@ img {
   column-gap: 1.5rem;
 }
 
+.footer__terms a {
+  font-size: var(--small-font-size);
+  color: var(--text-color);
+}
+
 /*=============== SCROLL BAR ===============*/
 
 /*=============== SCROLL UP ===============*/
