@@ -973,6 +973,11 @@ img {
   color: var(--text-color);
 }
 
+.footer__copy {
+  font-size: var(--small-font-size);
+  text-align: center;
+}
+
 /*=============== SCROLL BAR ===============*/
 
 /*=============== SCROLL UP ===============*/
