@@ -158,7 +158,7 @@ body.dark-theme {
   box-shadow: 0 12px 16px hsla(0, 0%, 0%, 0.2);
 }
 
-.dark-theme :is(.popular__button) {
+.dark-theme :is(.popular__button, .choose__faq-icon) {
   box-shadow: 0 2px 8px hsla(15, 80%, 50%, 0.5);
 }
 
