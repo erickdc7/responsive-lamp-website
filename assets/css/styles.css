@@ -149,6 +149,11 @@ body.dark-theme {
   box-shadow: 0 2px 16px hsla(0, 0%, 0%, 0.2);
 }
 
+.dark-theme
+  :is(.home__shadow, .choose__shadow, .features__shadow, .join__shadow) {
+  background: hsla(15, 60%, 52%, 0.4);
+}
+
 /*=============== REUSABLE CSS CLASSES ===============*/
 .container {
   max-width: 1120px;
