@@ -162,6 +162,10 @@ body.dark-theme {
   box-shadow: 0 2px 8px hsla(15, 80%, 50%, 0.5);
 }
 
+.dark-theme :is(.swiper-button-next, .swiper-button-prev) {
+  box-shadow: 0 2px 8px hsla(0, 0%, 0%, 0.2);
+}
+
 /*=============== REUSABLE CSS CLASSES ===============*/
 .container {
   max-width: 1120px;
