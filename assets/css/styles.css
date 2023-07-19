@@ -154,6 +154,10 @@ body.dark-theme {
   background: hsla(15, 60%, 52%, 0.4);
 }
 
+.dark-theme :is(.popular__card:hover) {
+  box-shadow: 0 12px 16px hsla(0, 0%, 0%, 0.2);
+}
+
 /*=============== REUSABLE CSS CLASSES ===============*/
 .container {
   max-width: 1120px;
