@@ -171,6 +171,10 @@ body.dark-theme {
   background: linear-gradient(180deg, hsla(0, 0%, 12%, 0), hsl(0, 0%, 15%));
 }
 
+.dark-theme .scrollup {
+  box-shadow: 0 4px 16px hsla(0, 0%, 0%, 0.25);
+}
+
 /*=============== REUSABLE CSS CLASSES ===============*/
 .container {
   max-width: 1120px;
