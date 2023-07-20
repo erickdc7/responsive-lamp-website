@@ -942,6 +942,7 @@ body.dark-theme {
   padding: 1.25rem 1.5rem;
   border-radius: 4rem;
   color: var(--text-color);
+  transition: background 0.4s; /* for dark mode animation */
 }
 
 .join__input::placeholder {
