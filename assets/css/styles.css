@@ -1117,6 +1117,10 @@ body.dark-theme {
   .footer__data {
     gap: 2rem;
   }
+
+  .footer__terms {
+    column-gap: 0.5rem;
+  }
 }
 
 /* For medium devices */
