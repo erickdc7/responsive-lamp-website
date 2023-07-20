@@ -558,6 +558,7 @@ body.dark-theme {
   font-size: 1.8rem;
   color: var(--first-color);
   box-shadow: 0 2px 8px hsla(0, 0%, 0%, 0.1);
+  transition: background 0.4s; /* for dark mode animation */
 }
 
 .swiper-button-prev {
