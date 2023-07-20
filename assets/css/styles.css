@@ -1109,6 +1109,10 @@ body.dark-theme {
   .features__info {
     grid-template-columns: 1fr;
   }
+
+  .join__bg {
+    padding: 0 0.5rem 2rem 0.5rem;
+  }
 }
 
 /* For medium devices */
