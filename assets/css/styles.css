@@ -1101,6 +1101,10 @@ body.dark-theme {
     align-items: center;
     row-gap: 1rem;
   }
+
+  .home__title {
+    font-size: 1.75rem;
+  }
 }
 
 /* For medium devices */
