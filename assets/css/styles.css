@@ -1105,6 +1105,10 @@ body.dark-theme {
   .home__title {
     font-size: 1.75rem;
   }
+
+  .features__info {
+    grid-template-columns: 1fr;
+  }
 }
 
 /* For medium devices */
