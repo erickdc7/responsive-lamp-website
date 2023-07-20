@@ -1129,6 +1129,12 @@ body.dark-theme {
     width: 350px;
     margin: 0 auto;
   }
+
+  .choose__container,
+  .features__container {
+    grid-template-columns: 360px;
+    justify-content: center;
+  }
 }
 
 /* For large devices */
