@@ -1077,7 +1077,7 @@ body.dark-theme {
   border-radius: 0.25rem;
   box-shadow: 0 4px 16px hsla(0, 0%, 0%, 0.1);
   z-index: var(--z-tooltip);
-  transition: bottom 0.4s, transform 0.4s;
+  transition: bottom 0.4s, transform 0.4s, background 0.4s;
 }
 
 .scrollup:hover {
