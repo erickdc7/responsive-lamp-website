@@ -1136,6 +1136,10 @@ body.dark-theme {
     grid-template-columns: 360px;
     justify-content: center;
   }
+
+  .products__content {
+    grid-template-columns: repeat(2, max-content);
+  }
 }
 
 /* For large devices */
