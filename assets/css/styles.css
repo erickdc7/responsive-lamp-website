@@ -1095,6 +1095,12 @@ body.dark-theme {
   .container {
     margin-inline: 1rem;
   }
+
+  .home__buttons {
+    flex-direction: column;
+    align-items: center;
+    row-gap: 1rem;
+  }
 }
 
 /* For medium devices */
