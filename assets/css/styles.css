@@ -496,6 +496,7 @@ body.dark-theme {
   height: 200px;
   border-radius: 8rem 8rem 0 0;
   margin-bottom: 0.75rem;
+  transition: background 0.4s; /* for dark mode animation */
 }
 
 .popular__img {
