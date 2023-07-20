@@ -1125,7 +1125,8 @@ body.dark-theme {
 
 /* For medium devices */
 @media screen and (min-width: 576px) {
-  .popular__description {
+  .popular__description,
+  .products__description {
     width: 350px;
     margin: 0 auto;
   }
