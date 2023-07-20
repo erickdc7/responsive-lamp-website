@@ -1113,6 +1113,10 @@ body.dark-theme {
   .join__bg {
     padding: 0 0.5rem 2rem 0.5rem;
   }
+
+  .footer__data {
+    gap: 2rem;
+  }
 }
 
 /* For medium devices */
