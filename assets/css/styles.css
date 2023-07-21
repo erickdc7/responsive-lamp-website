@@ -1203,6 +1203,10 @@ body.dark-theme {
   .products__data .section__title {
     text-align: center;
   }
+
+  .join__bg {
+    padding: 0 3rem;
+  }
 }
 
 /* For large devices */
