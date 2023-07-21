@@ -1161,6 +1161,10 @@ body.dark-theme {
     padding-bottom: 2rem;
   }
 
+  .home__image {
+    order: -1;
+  }
+
   .home__container {
     grid-template-columns: repeat(2, 1fr);
     align-items: center;
