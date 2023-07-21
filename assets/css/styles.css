@@ -1181,7 +1181,8 @@ body.dark-theme {
 
   .home__container,
   .choose__container,
-  .features__container {
+  .features__container,
+  .join__bg {
     grid-template-columns: repeat(2, 1fr);
     align-items: center;
   }
