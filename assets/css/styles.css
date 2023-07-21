@@ -1131,7 +1131,8 @@ body.dark-theme {
   }
 
   .choose__container,
-  .features__container {
+  .features__container,
+  .join__bg {
     grid-template-columns: 360px;
     justify-content: center;
   }
