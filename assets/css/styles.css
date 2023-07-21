@@ -1193,6 +1193,10 @@ body.dark-theme {
   .popular__content {
     max-width: 700px;
   }
+
+  .features__image {
+    order: 1;
+  }
 }
 
 /* For large devices */
