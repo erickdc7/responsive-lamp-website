@@ -1179,7 +1179,8 @@ body.dark-theme {
   }
 
   .home__container,
-  .choose__container {
+  .choose__container,
+  .features__container {
     grid-template-columns: repeat(2, 1fr);
     align-items: center;
   }
