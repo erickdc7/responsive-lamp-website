@@ -1181,6 +1181,10 @@ body.dark-theme {
     grid-template-columns: repeat(2, 1fr);
     align-items: center;
   }
+
+  .popular__description {
+    margin: initial;
+  }
 }
 
 /* For large devices */
