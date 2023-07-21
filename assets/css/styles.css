@@ -1169,6 +1169,11 @@ body.dark-theme {
     height: 110%;
   }
 
+  .home__buttons,
+  .home__info {
+    justify-content: initial;
+  }
+
   .home__container {
     grid-template-columns: repeat(2, 1fr);
     align-items: center;
