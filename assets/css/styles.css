@@ -1157,7 +1157,8 @@ body.dark-theme {
   .home__info,
   .popular__data,
   .choose__data,
-  .features__data {
+  .features__data,
+  .join__data {
     text-align: initial;
   }
 
