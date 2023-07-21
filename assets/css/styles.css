@@ -1207,6 +1207,14 @@ body.dark-theme {
   .join__bg {
     padding: 0 3rem;
   }
+
+  .join__form {
+    grid-template-columns: 1fr max-content;
+    column-gap: 0.5rem;
+    background-color: var(--body-color);
+    border-radius: 4rem;
+    padding-left: 1.5rem;
+  }
 }
 
 /* For large devices */
