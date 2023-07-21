@@ -1165,6 +1165,10 @@ body.dark-theme {
     order: -1;
   }
 
+  .home__bg {
+    height: 110%;
+  }
+
   .home__container {
     grid-template-columns: repeat(2, 1fr);
     align-items: center;
