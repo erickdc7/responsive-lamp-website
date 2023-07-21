@@ -1144,6 +1144,11 @@ body.dark-theme {
   .join__bg {
     justify-self: center;
   }
+
+  .footer__content {
+    grid-template-columns: repeat(2, max-content);
+    justify-content: space-between;
+  }
 }
 
 /* For large devices */
