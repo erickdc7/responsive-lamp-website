@@ -1139,6 +1139,10 @@ body.dark-theme {
   .products__content {
     grid-template-columns: repeat(2, max-content);
   }
+
+  .join__bg {
+    justify-self: center;
+  }
 }
 
 /* For large devices */
