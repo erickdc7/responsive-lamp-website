@@ -1154,7 +1154,8 @@ body.dark-theme {
 @media screen and (min-width: 768px) {
   .section__title,
   .home__data,
-  .home__info {
+  .home__info,
+  .popular__data {
     text-align: initial;
   }
 
