@@ -1155,6 +1155,11 @@ body.dark-theme {
   .section__title {
     text-align: initial;
   }
+
+  .home__container {
+    column-gap: 4rem;
+    padding-bottom: 2rem;
+  }
 }
 
 /* For large devices */
