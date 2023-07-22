@@ -1261,4 +1261,8 @@ body.dark-theme {
   .change-theme {
     color: var(--text-color);
   }
+
+  .bg-header .change-theme {
+    color: var(--text-color);
+  }
 }
