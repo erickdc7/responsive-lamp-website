@@ -1274,3 +1274,6 @@ body.dark-theme {
     grid-template-columns: repeat(4, max-content);
   }
 }
+
+@media screen and (min-width: 1152px) {
+}
