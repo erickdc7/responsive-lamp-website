@@ -1236,4 +1236,7 @@ body.dark-theme {
 
 /* For large devices */
 @media screen and (min-width: 1024px) {
+  .nav {
+    column-gap: 4rem;
+  }
 }
