@@ -1239,4 +1239,9 @@ body.dark-theme {
   .nav {
     column-gap: 4rem;
   }
+
+  .nav__close,
+  .nav__toggle {
+    display: none;
+  }
 }
