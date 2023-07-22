@@ -1305,4 +1305,11 @@ body.dark-theme {
     height: 678px;
     border: 10px solid transparent;
   }
+
+  .home__shadow {
+    width: 435px;
+    height: 60px;
+    bottom: -2rem;
+    filter: blur(28px);
+  }
 }
