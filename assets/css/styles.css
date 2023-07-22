@@ -1299,4 +1299,10 @@ body.dark-theme {
     height: 97%;
     clip-path: polygon(0 0, 100% 0, 100% 100%, 0 80%);
   }
+
+  .home__blob {
+    width: 530px;
+    height: 678px;
+    border: 10px solid transparent;
+  }
 }
