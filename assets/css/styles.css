@@ -1249,4 +1249,8 @@ body.dark-theme {
     flex-direction: row;
     column-gap: 4rem;
   }
+
+  .nav__menu {
+    margin-left: auto;
+  }
 }
