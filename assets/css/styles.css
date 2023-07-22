@@ -1287,4 +1287,11 @@ body.dark-theme {
   .nav {
     height: calc(var(--header-height) + 1.5rem);
   }
+
+  .home__container {
+    grid-template-columns: 530px 465px;
+    justify-content: center;
+    padding-top: 3.5rem;
+    column-gap: 7.5rem;
+  }
 }
