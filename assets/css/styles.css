@@ -1215,6 +1215,10 @@ body.dark-theme {
     border-radius: 4rem;
     padding-left: 1.5rem;
   }
+
+  .join__input {
+    padding: 1rem 0;
+  }
 }
 
 /* For large devices */
