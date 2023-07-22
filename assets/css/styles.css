@@ -1257,4 +1257,8 @@ body.dark-theme {
   .dark-theme .nav__menu {
     box-shadow: none;
   }
+
+  .change-theme {
+    color: var(--text-color);
+  }
 }
