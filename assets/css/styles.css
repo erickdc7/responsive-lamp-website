@@ -1244,4 +1244,9 @@ body.dark-theme {
   .nav__toggle {
     display: none;
   }
+
+  .nav__list {
+    flex-direction: row;
+    column-gap: 4rem;
+  }
 }
