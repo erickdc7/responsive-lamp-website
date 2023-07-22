@@ -1269,4 +1269,8 @@ body.dark-theme {
   .products__content {
     grid-template-columns: repeat(3, max-content);
   }
+
+  .footer__data {
+    grid-template-columns: repeat(4, max-content);
+  }
 }
