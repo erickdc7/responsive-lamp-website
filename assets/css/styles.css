@@ -1223,6 +1223,11 @@ body.dark-theme {
   .footer__data {
     grid-template-columns: repeat(3, max-content);
   }
+
+  .footer__group {
+    flex-direction: row;
+    justify-content: space-between;
+  }
 }
 
 /* For large devices */
