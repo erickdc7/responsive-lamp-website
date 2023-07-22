@@ -1294,4 +1294,9 @@ body.dark-theme {
     padding-top: 3.5rem;
     column-gap: 7.5rem;
   }
+
+  .home__bg {
+    height: 97%;
+    clip-path: polygon(0 0, 100% 0, 100% 100%, 0 80%);
+  }
 }
