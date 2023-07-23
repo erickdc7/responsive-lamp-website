@@ -1399,4 +1399,9 @@ body.dark-theme {
   .popular__name {
     font-size: var(--h3-font-size);
   }
+
+  .popular__subtitle {
+    font-size: var(--small-font-size);
+    margin-bottom: 1.5rem;
+  }
 }
