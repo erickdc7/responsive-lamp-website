@@ -1339,4 +1339,9 @@ body.dark-theme {
   .home__buttons {
     column-gap: 2.5rem;
   }
+
+  .home__info {
+    column-gap: 4rem;
+    text-align: initial;
+  }
 }
