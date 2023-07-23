@@ -1373,6 +1373,10 @@ body.dark-theme {
     right: calc(50% - 3.5rem);
   }
 
+  .swiper-button-prev {
+    left: calc(50% - 3.5rem);
+  }
+
   .popular__description {
     font-size: var(--normal-big-font-size);
   }
