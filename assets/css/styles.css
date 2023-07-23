@@ -1326,4 +1326,9 @@ body.dark-theme {
     row-gap: 4.5rem;
     padding-bottom: 5rem;
   }
+
+  .home__subtitle {
+    font-size: var(--h3-font-size);
+    margin-bottom: 0.75rem;
+  }
 }
