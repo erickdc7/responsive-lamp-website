@@ -1344,4 +1344,8 @@ body.dark-theme {
     column-gap: 4rem;
     text-align: initial;
   }
+
+  .home__info-title {
+    font-size: 2.75rem;
+  }
 }
