@@ -1422,4 +1422,11 @@ body.dark-theme {
     height: 670px;
     border: 10px solid transparent;
   }
+
+  .choose__shadow {
+    width: 404px;
+    height: 60px;
+    bottom: -2rem;
+    filter: blur(28px);
+  }
 }
