@@ -1331,4 +1331,8 @@ body.dark-theme {
     font-size: var(--h3-font-size);
     margin-bottom: 0.75rem;
   }
+
+  .home__title {
+    margin-bottom: 2.5rem;
+  }
 }
