@@ -1395,4 +1395,8 @@ body.dark-theme {
   .popular__img {
     width: 150px;
   }
+
+  .popular__name {
+    font-size: var(--h3-font-size);
+  }
 }
