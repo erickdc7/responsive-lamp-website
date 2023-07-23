@@ -1356,4 +1356,8 @@ body.dark-theme {
   .popular__description {
     width: 450px;
   }
+
+  .popular__description {
+    font-size: var(--normal-big-font-size);
+  }
 }
