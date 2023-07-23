@@ -1380,4 +1380,10 @@ body.dark-theme {
   .popular__description {
     font-size: var(--normal-big-font-size);
   }
+
+  .popular__card {
+    width: 230px;
+    height: 410px;
+    padding: 1rem 1rem 1.5rem;
+  }
 }
