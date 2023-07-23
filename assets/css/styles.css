@@ -1352,4 +1352,8 @@ body.dark-theme {
   .home__info-subtitle {
     font-size: var(--normal-font-size);
   }
+
+  .popular__description {
+    width: 450px;
+  }
 }
