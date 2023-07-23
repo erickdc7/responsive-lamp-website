@@ -1386,4 +1386,8 @@ body.dark-theme {
     height: 410px;
     padding: 1rem 1rem 1.5rem;
   }
+
+  .popular__img {
+    width: 150px;
+  }
 }
