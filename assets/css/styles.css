@@ -1348,4 +1348,8 @@ body.dark-theme {
   .home__info-title {
     font-size: 2.75rem;
   }
+
+  .home__info-subtitle {
+    font-size: var(--normal-font-size);
+  }
 }
