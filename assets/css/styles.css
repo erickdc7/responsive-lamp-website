@@ -1321,4 +1321,9 @@ body.dark-theme {
   .home__blob-title {
     font-size: 7rem;
   }
+
+  .home__content {
+    row-gap: 4.5rem;
+    padding-bottom: 5rem;
+  }
 }
