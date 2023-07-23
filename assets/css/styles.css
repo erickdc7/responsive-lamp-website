@@ -1335,4 +1335,8 @@ body.dark-theme {
   .home__title {
     margin-bottom: 2.5rem;
   }
+
+  .home__buttons {
+    column-gap: 2.5rem;
+  }
 }
