@@ -1387,6 +1387,11 @@ body.dark-theme {
     padding: 1rem 1rem 1.5rem;
   }
 
+  .popular__blob {
+    height: 240px;
+    margin-bottom: 1rem;
+  }
+
   .popular__img {
     width: 150px;
   }
