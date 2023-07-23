@@ -1317,4 +1317,8 @@ body.dark-theme {
     width: 480px;
     transform: translateY(-10px);
   }
+
+  .home__blob-title {
+    font-size: 7rem;
+  }
 }
