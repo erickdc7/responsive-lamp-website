@@ -1357,6 +1357,11 @@ body.dark-theme {
     width: 450px;
   }
 
+  .popular__content {
+    padding-block: 4rem 8rem;
+    max-width: 1064px;
+  }
+
   .popular__description {
     font-size: var(--normal-big-font-size);
   }
