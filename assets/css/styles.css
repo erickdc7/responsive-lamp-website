@@ -1312,4 +1312,9 @@ body.dark-theme {
     bottom: -2rem;
     filter: blur(28px);
   }
+
+  .home__img {
+    width: 480px;
+    transform: translateY(-10px);
+  }
 }
