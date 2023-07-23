@@ -1416,4 +1416,10 @@ body.dark-theme {
     grid-template-columns: 500px 455px;
     column-gap: 7rem;
   }
+
+  .choose__blob {
+    width: 500px;
+    height: 670px;
+    border: 10px solid transparent;
+  }
 }
