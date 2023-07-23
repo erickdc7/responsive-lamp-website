@@ -1362,6 +1362,13 @@ body.dark-theme {
     max-width: 1064px;
   }
 
+  .swiper-button-next,
+  .swiper-button-prev {
+    width: 2.5rem;
+    height: 2.5rem;
+    font-size: 2rem;
+  }
+
   .popular__description {
     font-size: var(--normal-big-font-size);
   }
