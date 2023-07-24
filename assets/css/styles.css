@@ -1496,4 +1496,8 @@ body.dark-theme {
   .features__info-card {
     padding: 3rem 2rem;
   }
+
+  .products__container {
+    row-gap: 4.5rem;
+  }
 }
