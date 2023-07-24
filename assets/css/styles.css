@@ -1485,4 +1485,9 @@ body.dark-theme {
   .features__content {
     row-gap: 3.5rem;
   }
+
+  .features__info {
+    grid-template-columns: repeat(2, 200px);
+    gap: 2rem;
+  }
 }
