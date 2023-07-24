@@ -1463,4 +1463,9 @@ body.dark-theme {
     bottom: -2rem;
     filter: blur(28px);
   }
+
+  .features__container {
+    grid-template-columns: 445px 500px;
+    column-gap: 7.5rem;
+  }
 }
