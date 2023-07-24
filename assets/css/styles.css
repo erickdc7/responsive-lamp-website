@@ -1470,4 +1470,9 @@ body.dark-theme {
     grid-template-columns: 445px 500px;
     column-gap: 7.5rem;
   }
+
+  .features__img {
+    width: 420px;
+    transform: translateY(-10px);
+  }
 }
