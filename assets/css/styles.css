@@ -1422,6 +1422,12 @@ body.dark-theme {
     transform: translateY(-10px);
   }
 
+  .choose__blob-title {
+    font-size: 7rem;
+    left: 1.5rem;
+    bottom: 4.5rem;
+  }
+
   .choose__blob {
     width: 500px;
     height: 670px;
