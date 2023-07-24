@@ -1377,7 +1377,8 @@ body.dark-theme {
     left: calc(50% - 3.5rem);
   }
 
-  .popular__description {
+  .popular__description,
+  .choose__description {
     font-size: var(--normal-big-font-size);
   }
 
