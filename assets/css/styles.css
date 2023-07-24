@@ -1481,4 +1481,8 @@ body.dark-theme {
     right: 1.5rem;
     bottom: 4.5rem;
   }
+
+  .features__content {
+    row-gap: 3.5rem;
+  }
 }
