@@ -1417,6 +1417,11 @@ body.dark-theme {
     column-gap: 7rem;
   }
 
+  .choose__img {
+    width: 350px;
+    transform: translateY(-10px);
+  }
+
   .choose__blob {
     width: 500px;
     height: 670px;
