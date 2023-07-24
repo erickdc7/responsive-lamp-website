@@ -1385,7 +1385,8 @@ body.dark-theme {
     font-size: var(--normal-big-font-size);
   }
 
-  .popular__card {
+  .popular__card,
+  .products__card {
     width: 230px;
     height: 410px;
     padding: 1rem 1rem 1.5rem;
