@@ -1458,7 +1458,8 @@ body.dark-theme {
     border: 10px solid transparent;
   }
 
-  .choose__shadow {
+  .choose__shadow,
+  .features__shadow {
     width: 404px;
     height: 60px;
     bottom: -2rem;
