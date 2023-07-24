@@ -1440,6 +1440,11 @@ body.dark-theme {
     column-gap: 1.25rem;
   }
 
+  .choose__faq-icon {
+    font-size: 1.8rem;
+    border-radius: 0.75rem;
+  }
+
   .choose__blob {
     width: 500px;
     height: 670px;
