@@ -1436,6 +1436,10 @@ body.dark-theme {
     row-gap: 2.5rem;
   }
 
+  .choose__faq-header {
+    column-gap: 1.25rem;
+  }
+
   .choose__blob {
     width: 500px;
     height: 670px;
