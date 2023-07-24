@@ -1392,7 +1392,8 @@ body.dark-theme {
     padding: 1rem 1rem 1.5rem;
   }
 
-  .popular__blob {
+  .popular__blob,
+  .products__blob {
     height: 240px;
     margin-bottom: 1rem;
   }
