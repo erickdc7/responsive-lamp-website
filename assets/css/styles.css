@@ -1490,4 +1490,8 @@ body.dark-theme {
     grid-template-columns: repeat(2, 200px);
     gap: 2rem;
   }
+
+  .features__info-card {
+    padding: 3rem 2rem;
+  }
 }
