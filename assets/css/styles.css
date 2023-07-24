@@ -1403,7 +1403,8 @@ body.dark-theme {
     width: 150px;
   }
 
-  .popular__name {
+  .popular__name,
+  .products__name {
     font-size: var(--h3-font-size);
   }
 
