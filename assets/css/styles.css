@@ -1398,7 +1398,8 @@ body.dark-theme {
     margin-bottom: 1rem;
   }
 
-  .popular__img {
+  .popular__img,
+  .products__img {
     width: 150px;
   }
 
