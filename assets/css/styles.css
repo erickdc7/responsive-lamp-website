@@ -1379,7 +1379,8 @@ body.dark-theme {
 
   .popular__description,
   .choose__description,
-  .choose__faq-description {
+  .choose__faq-description,
+  .features__description {
     font-size: var(--normal-big-font-size);
   }
 
