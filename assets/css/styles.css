@@ -1475,4 +1475,10 @@ body.dark-theme {
     width: 420px;
     transform: translateY(-10px);
   }
+
+  .features__blob-title {
+    font-size: 7rem;
+    right: 1.5rem;
+    bottom: 4.5rem;
+  }
 }
