@@ -1500,4 +1500,9 @@ body.dark-theme {
   .products__container {
     row-gap: 4.5rem;
   }
+
+  .products__content {
+    grid-template-columns: repeat(4, max-content);
+    gap: 4rem 3rem;
+  }
 }
