@@ -1451,7 +1451,8 @@ body.dark-theme {
     font-size: var(--h2-font-size);
   }
 
-  .choose__blob {
+  .choose__blob,
+  .features__blob {
     width: 500px;
     height: 670px;
     border: 10px solid transparent;
