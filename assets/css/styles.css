@@ -1592,4 +1592,8 @@ body.dark-theme {
   .footer__group {
     margin-top: 6.5rem;
   }
+
+  .scrollup {
+    right: 3rem;
+  }
 }
