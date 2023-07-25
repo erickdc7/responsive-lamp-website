@@ -1555,4 +1555,8 @@ body.dark-theme {
     row-gap: 3rem;
     padding-bottom: 5rem;
   }
+
+  .join__form {
+    width: 400px;
+  }
 }
