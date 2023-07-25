@@ -1516,4 +1516,12 @@ body.dark-theme {
   .join__container {
     padding-block: 9rem 5rem;
   }
+
+  .join__bg {
+    grid-template-columns: 450px 380px;
+    justify-self: initial;
+    height: 442px;
+    column-gap: 6rem;
+    padding-inline: 6rem;
+  }
 }
