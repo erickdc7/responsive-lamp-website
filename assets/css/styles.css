@@ -1563,4 +1563,8 @@ body.dark-theme {
   .footer {
     padding-block: 3rem;
   }
+
+  .footer__logo {
+    margin-bottom: 1rem;
+  }
 }
