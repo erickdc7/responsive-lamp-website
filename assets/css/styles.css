@@ -1408,7 +1408,8 @@ body.dark-theme {
     font-size: var(--h3-font-size);
   }
 
-  .popular__subtitle {
+  .popular__subtitle,
+  .products__subtitle {
     font-size: var(--small-font-size);
     margin-bottom: 1.5rem;
   }
