@@ -1567,4 +1567,9 @@ body.dark-theme {
   .footer__logo {
     margin-bottom: 1rem;
   }
+
+  .footer__title {
+    font-size: var(--h2-font-size);
+    margin-bottom: 1.25rem;
+  }
 }
