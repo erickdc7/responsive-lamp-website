@@ -1580,4 +1580,8 @@ body.dark-theme {
   .footer__data {
     column-gap: 4.5rem;
   }
+
+  .footer__social {
+    column-gap: 1.5rem;
+  }
 }
