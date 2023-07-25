@@ -1584,4 +1584,8 @@ body.dark-theme {
   .footer__social {
     column-gap: 1.5rem;
   }
+
+  .footer__social-link {
+    font-size: 1.5rem;
+  }
 }
