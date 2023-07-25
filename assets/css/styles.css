@@ -1572,4 +1572,8 @@ body.dark-theme {
     font-size: var(--h2-font-size);
     margin-bottom: 1.25rem;
   }
+
+  .footer__links {
+    row-gap: 1rem;
+  }
 }
