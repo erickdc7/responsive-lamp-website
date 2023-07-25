@@ -1381,7 +1381,8 @@ body.dark-theme {
   .choose__description,
   .choose__faq-description,
   .features__description,
-  .products__description {
+  .products__description,
+  .join__description {
     font-size: var(--normal-big-font-size);
   }
 
