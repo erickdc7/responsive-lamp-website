@@ -1537,4 +1537,8 @@ body.dark-theme {
     bottom: -2rem;
     filter: blur(28px);
   }
+
+  .join__image {
+    transform: translateY(-8.5rem);
+  }
 }
