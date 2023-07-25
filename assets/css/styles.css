@@ -1530,4 +1530,11 @@ body.dark-theme {
     height: 580px;
     border: 10px solid transparent;
   }
+
+  .join__shadow {
+    width: 352px;
+    height: 60px;
+    bottom: -2rem;
+    filter: blur(28px);
+  }
 }
