@@ -1541,4 +1541,9 @@ body.dark-theme {
   .join__image {
     transform: translateY(-8.5rem);
   }
+
+  .join__img {
+    width: 360px;
+    transform: translateY(-10px);
+  }
 }
