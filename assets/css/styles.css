@@ -1546,4 +1546,8 @@ body.dark-theme {
     width: 360px;
     transform: translateY(-10px);
   }
+
+  .join__blob-title {
+    font-size: 7rem;
+  }
 }
