@@ -1414,7 +1414,8 @@ body.dark-theme {
     margin-bottom: 1.5rem;
   }
 
-  .popular__button {
+  .popular__button,
+  .products__button {
     font-size: 1.8rem;
     border-radius: 0.75rem;
     right: 1rem;
