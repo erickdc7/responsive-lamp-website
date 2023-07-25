@@ -1588,4 +1588,8 @@ body.dark-theme {
   .footer__social-link {
     font-size: 1.5rem;
   }
+
+  .footer__group {
+    margin-top: 6.5rem;
+  }
 }
