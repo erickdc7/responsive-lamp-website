@@ -1512,4 +1512,8 @@ body.dark-theme {
     grid-template-columns: repeat(4, max-content);
     gap: 4rem 3rem;
   }
+
+  .join__container {
+    padding-block: 9rem 5rem;
+  }
 }
