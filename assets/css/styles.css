@@ -1576,4 +1576,8 @@ body.dark-theme {
   .footer__links {
     row-gap: 1rem;
   }
+
+  .footer__data {
+    column-gap: 4.5rem;
+  }
 }
