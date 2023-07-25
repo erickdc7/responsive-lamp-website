@@ -1550,4 +1550,9 @@ body.dark-theme {
   .join__blob-title {
     font-size: 7rem;
   }
+
+  .join__content {
+    row-gap: 3rem;
+    padding-bottom: 5rem;
+  }
 }
