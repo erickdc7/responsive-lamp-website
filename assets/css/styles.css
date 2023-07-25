@@ -1524,4 +1524,10 @@ body.dark-theme {
     column-gap: 6rem;
     padding-inline: 6rem;
   }
+
+  .join__blob {
+    width: 450px;
+    height: 580px;
+    border: 10px solid transparent;
+  }
 }
