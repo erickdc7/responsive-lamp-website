@@ -165,3 +165,5 @@ const sr = ScrollReveal({
     delay: 400,
     reset: true // Animations repeat
 })
+
+sr.reveal(`.home__content`)
