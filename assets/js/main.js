@@ -167,3 +167,4 @@ const sr = ScrollReveal({
 })
 
 sr.reveal(`.home__content`)
+sr.reveal(`.home__image`, { origin: 'bottom' })
