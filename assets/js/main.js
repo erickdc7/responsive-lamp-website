@@ -169,4 +169,4 @@ const sr = ScrollReveal({
 sr.reveal(`.home__content, .popular__container`)
 sr.reveal(`.home__image`, { origin: 'bottom' })
 sr.reveal(`.choose__image, .features__image`, { origin: 'left' })
-sr.reveal(`.choose__content`, { origin: 'right' })
+sr.reveal(`.choose__content, .features__content`, { origin: 'right' })
