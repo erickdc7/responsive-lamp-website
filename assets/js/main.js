@@ -166,5 +166,5 @@ const sr = ScrollReveal({
     reset: true // Animations repeat
 })
 
-sr.reveal(`.home__content`)
+sr.reveal(`.home__content, .popular__container`)
 sr.reveal(`.home__image`, { origin: 'bottom' })
